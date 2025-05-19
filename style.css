@@ -1,0 +1,58 @@
+section{
+    text-indent: 3px;
+}
+.moi{
+    height: 90px;
+    width: 100px;
+    border-bottom-left-radius: 60%;
+    border-bottom-right-radius: 60px;
+    border: 5px solid black;
+}
+.propos{
+    display: inline-flex;
+}
+header{
+    display: flex;
+    text-justify: 5px;
+    background-color: brown;
+    padding: 40px 20px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(9, 9, 97);
+    text-align: center;
+}
+.flotter{
+    float: right;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding-left: 500px;
+}
+.projet{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.card{
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 2px 2px 2px red;
+    text-align: center;
+    transition: auto;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: beige;
+    padding: 0px;
+    margin: 0px;
+}
