@@ -41,6 +41,9 @@ footer{
     width: 100px;
     height: 100px;
 }
+h1{
+    text-align: center;
+}
 .card{
     background-color: white;
     border-radius: 10px;
