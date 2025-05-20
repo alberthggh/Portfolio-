@@ -18,6 +18,7 @@ header{
     background-color: brown;
     padding: 1% 0.5%;
     text-align: center;
+    background-position: 12%;
 }
 footer{
     background-color: rgb(9, 9, 97);
@@ -59,4 +60,5 @@ body{
     background-color: beige;
     padding: 0px;
     margin: 0px;
+    background-position: 12%;
 }
