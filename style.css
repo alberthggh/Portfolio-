@@ -2,7 +2,7 @@ section{
     text-indent: 3px;
 }
 .moi{
-    height: 5%;
+    height: 6%;
     width: 7%;
     border-bottom-left-radius: 60%;
     border-bottom-right-radius: 60%;
@@ -23,6 +23,8 @@ header{
 footer{
     background-color: rgb(9, 9, 97);
     text-align: center;
+    margin: 0%;
+    padding: 0%;
 }
 .flotter{
     float: right;
